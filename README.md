@@ -1,4 +1,4 @@
-# Data Mining Preprocessing
+# Books Recommendation System
 
 ## Overview
 This project focuses on preprocessing data for a data mining application. The primary goal is to prepare the dataset for mining frequent patterns using the FP-Growth algorithm, an efficient and scalable method for mining the complete set of frequent itemsets.
